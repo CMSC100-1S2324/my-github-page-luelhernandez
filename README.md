@@ -5,5 +5,6 @@
 Full Name: Luel Abram Josef M. Hernandez
 Degree Program: BS Civil Engineering
 Live Website link: https://cmsc100-1s2324.github.io/my-github-page-luelhernandez
+Steps on how to create GitHub page: In your repository, go to Settings>Code and automation>Pages. There you will find all the necessary settings on where the Source would be and if you want a cusom domain. 
 What are your key takeaways from this exercise?: The bulk of your time is not put in the HTML. It is, apparently, in designing your website in CSS.
 
