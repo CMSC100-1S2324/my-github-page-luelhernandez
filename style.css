@@ -102,6 +102,7 @@ body{
   text-decoration: none;
   text-align: center;
   text-justify: center;
+  
 }
 
 .flex-item:hover{
@@ -194,10 +195,17 @@ ul{
 .footnote{
   display: flex;
   justify-content: left;
+  flex-grow: 1;
+  flex-basis: 0;
   color: rgb(207, 207, 207);
   font-size: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   margin-left: 100px;
   text-decoration: none;
 
+}
+
+.top{
+  color: aquamarine;
+  text-decoration: none;
 }
